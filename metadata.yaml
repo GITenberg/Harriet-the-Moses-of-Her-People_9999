@@ -1,0 +1,30 @@
+_repo: Harriet-the-Moses-of-Her-People_9999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradford, Sarah H. (Sarah Hopkins)
+    aliases:
+    - Cousin Cicely
+    - Bradford, S. H. (Sarah Hopkins)
+    - Bradford, Sarah Elizabeth (Hopkins)
+    birthdate: 1818
+    gutenberg_agent_id: '5940'
+    url: http://www.gutenberg.org/2009/agents/5940
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Biography'
+- !lcsh 'Slaves -- United States -- Biography'
+- !lcsh 'Tubman, Harriet, 1820?-1913'
+- !lcsh 'Underground Railroad'
+- !lcc 'E300'
+- GITenberg
+title: Harriet, the Moses of Her People
+url: http://www.gutenberg.org/ebooks/9999
